@@ -14,4 +14,4 @@ function wrapAdjective(run = "*"){
         return `You are ${run}${adjective}${run}!`;
     }
 }
-const encouragingPromptFunction = wrapAdjective("!!!");
+//const encouragingPromptFunction = wrapAdjective("!!!");
